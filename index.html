@@ -20,7 +20,7 @@
     <p class="music-note">♫ Background music: BTS — 2.0</p>
   </div>
 
-  <audio id="bgMusic" loop preload="auto" aria-label="BTS — 2.0">
+  <audio id="bgMusic" loop preload="auto" playsinline aria-label="BTS — 2.0">
     <source src="assets/2.0.mp3" type="audio/mpeg">
   </audio>
 
@@ -31,7 +31,10 @@
         <a href="#collection">Collection</a>
         <a href="#message">A little note</a>
       </nav>
-      <button class="sound-btn" id="topBtn" aria-label="Về đầu trang">↑</button>
+      <div class="top-actions">
+        <button class="sound-btn" id="musicBtn" aria-label="Bật nhạc nền" title="Bật / tắt nhạc">🔊</button>
+        <button class="sound-btn" id="topBtn" aria-label="Về đầu trang" title="Về đầu trang">↑</button>
+      </div>
     </header>
 
     <section class="hero" id="home">
