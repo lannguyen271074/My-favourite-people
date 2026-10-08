@@ -19,7 +19,7 @@ MY HUSBANDS — MEMORY ARCHIVE
    Settings → Pages → Build and deployment → Deploy from a branch → main → /(root) → Save.
 
 5. URL dự kiến:
-   https://phamvananh160205-code.github.io/My-Husbands/
+  https://lannguyen271074.github.io/My-favourite-people/
 
 Lưu ý bản quyền:
 Website không kèm sẵn file nhạc BTS — 2.0. Bạn cần tự thêm file âm thanh mà bạn có quyền sử dụng.
